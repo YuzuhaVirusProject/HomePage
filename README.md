@@ -1,2 +1,2 @@
 # 柚葉ウイルス2.0のホームページ  
-https://www.yukkuributti.com/yuzuha  
+https://www.yukkuributti.com/YuzuhaVirus  
